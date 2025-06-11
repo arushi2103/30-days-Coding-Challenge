@@ -16,6 +16,7 @@ class Solution {
                 if (stack.isEmpty() || stack.peek() != hmap.get(ch)){
                     return false;
                 }else{
+                    // if top stack element and the current char make a vaid parenthesis - pop the topmost element 
                     stack.pop();
                 }
             }else{
