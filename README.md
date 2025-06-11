@@ -23,6 +23,7 @@
 | ------- |
 | [0952-word-subsets](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0952-word-subsets) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0238-product-of-array-except-self](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0238-product-of-array-except-self) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -39,4 +40,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0020-valid-parentheses) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
