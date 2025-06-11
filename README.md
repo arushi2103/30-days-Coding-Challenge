@@ -13,6 +13,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0952-word-subsets](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0952-word-subsets) |
 | [3451-string-compression-iii](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/3451-string-compression-iii) |
+| [0020-valid-parentheses](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0020-valid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -34,4 +35,8 @@
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
