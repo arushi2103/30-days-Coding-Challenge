@@ -14,23 +14,33 @@
  * }
  */
 class Solution {
-    int postorderIndex;
-    private Map<Integer,Integer>inorderMap=new HashMap<>();
+    int postOrderIndex;
+    private Map<Integer,Integer> inorderIndexMap=new HashMap<>();
+
     public TreeNode buildTree(int[] inorder, int[] postorder) {
+        //initialize postorder index to last element 
+        postOrderIndex=postorder.length-1;
+        
+        //build a map of inorder values and their indices for quick lookup
         for(int i=0;i<inorder.length;i++){
-            inorderMap.put(inorder[i],i);
+            inorderIndexMap.put(inorder[i],i);
         }
-        postorderIndex=postorder.length-1;
-        return constructBST(postorder,0,postorder.length-1);
+        //start building the tree
+        return buildSubTree(postorder,0,inorder.length-1);
     }
-    
-    private TreeNode constructBST(int []postorder,int left,int right){
+    private TreeNode buildSubTree(int[] postorder, int left , int right){
+        //base case 
         if(left>right)return null;
-        int val=postorder[postorderIndex--];
-        TreeNode node=new TreeNode(val);
-        int inorderIndex=inorderMap.get(val);
-        node.right=constructBST(postorder,inorderIndex+1,right);
-        node.left=constructBST(postorder,left,inorderIndex-1);
-        return node;
+        //current root val from posr order
+        int rootValue=postorder[postOrderIndex--];
+        TreeNode root=new TreeNode(rootValue);
+
+        //find the index of this root in the inorder 
+        int inOrderIndex=inorderIndexMap.get(rootValue);
+        
+        //recursive call to build right subtree first and then left subtree
+        root.right=buildSubTree(postorder,inOrderIndex+1,right);
+        root.left=buildSubTree(postorder,left,inOrderIndex-1);
+        return root;
     }
 }
