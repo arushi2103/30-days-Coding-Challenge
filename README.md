@@ -32,16 +32,23 @@
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0145-binary-tree-postorder-traversal) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0020-valid-parentheses) |
+| [0145-binary-tree-postorder-traversal](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0145-binary-tree-postorder-traversal) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0238-product-of-array-except-self) |
+## Depth-First Search
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
