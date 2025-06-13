@@ -7,6 +7,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0952-word-subsets](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0952-word-subsets) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 | [0952-word-subsets](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0952-word-subsets) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0238-product-of-array-except-self](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0238-product-of-array-except-self) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
