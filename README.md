@@ -68,4 +68,13 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0070-climbing-stairs) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
