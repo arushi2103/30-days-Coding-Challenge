@@ -20,6 +20,7 @@
 | [0005-longest-palindromic-substring](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0005-longest-palindromic-substring) |
 | [0097-interleaving-string](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0097-interleaving-string) |
 | [0014-longest-common-prefix](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0014-longest-common-prefix) |
+| [1739-split-two-strings-to-make-palindrome](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/1739-split-two-strings-to-make-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
@@ -67,6 +68,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0005-longest-palindromic-substring) |
+| [1739-split-two-strings-to-make-palindrome](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/1739-split-two-strings-to-make-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
