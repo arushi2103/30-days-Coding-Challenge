@@ -6,10 +6,12 @@ class Solution {
         String prefix=strs[0];
         for(int i=1;i<strs.length;i++){
             int j=0;
+            //check index bounds first then compare characters
             while(j<prefix.length() && j<strs[i].length() && prefix.charAt(j)==strs[i].charAt(j) ){
                 j++;
             }
                 prefix=prefix.substring(0,j);
+                //early check if prefix is empty-no common prefix
                 if(prefix.isEmpty())return "";
         }
         return prefix;
