@@ -1,4 +1,5 @@
 # 30-days-Coding-Challenge
+ It's not about solving everything perfectly it's about showing up daily and getting a little better each time.
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Hash Table
