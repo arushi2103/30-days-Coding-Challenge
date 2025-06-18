@@ -19,6 +19,7 @@
 | [0020-valid-parentheses](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0020-valid-parentheses) |
 | [0005-longest-palindromic-substring](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0005-longest-palindromic-substring) |
 | [0097-interleaving-string](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0097-interleaving-string) |
+| [0014-longest-common-prefix](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0014-longest-common-prefix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -80,4 +81,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0070-climbing-stairs) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
