@@ -10,6 +10,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [0749-shortest-completing-word](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0749-shortest-completing-word) |
 ## String
 |  |
 | ------- |
@@ -21,6 +22,7 @@
 | [0097-interleaving-string](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0097-interleaving-string) |
 | [0014-longest-common-prefix](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0014-longest-common-prefix) |
 | [1739-split-two-strings-to-make-palindrome](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/1739-split-two-strings-to-make-palindrome) |
+| [0749-shortest-completing-word](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0749-shortest-completing-word) |
 ## Sliding Window
 |  |
 | ------- |
@@ -33,6 +35,7 @@
 | [0238-product-of-array-except-self](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0238-product-of-array-except-self) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [0749-shortest-completing-word](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0749-shortest-completing-word) |
 ## Divide and Conquer
 |  |
 | ------- |
