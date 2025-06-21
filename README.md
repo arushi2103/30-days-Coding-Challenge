@@ -37,6 +37,7 @@
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [0749-shortest-completing-word](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0749-shortest-completing-word) |
 | [3430-count-days-without-meetings](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/3430-count-days-without-meetings) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -73,6 +74,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0005-longest-palindromic-substring) |
 | [1739-split-two-strings-to-make-palindrome](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/1739-split-two-strings-to-make-palindrome) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
