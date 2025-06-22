@@ -18,4 +18,4 @@ class Solution {
 
 //my idea is two check last two digits -and if last digit is >last second- change last digit to 1 and decrese last second by 1;
 //then i will check the last for last 2nd and 3rd digit with same process= this way i will traverse and modify from end to start 
-// help me achieve that - don't provide complete solution  
+  
