@@ -85,6 +85,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0070-climbing-stairs) |
+| [0738-monotone-increasing-digits](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0738-monotone-increasing-digits) |
 ## Memoization
 |  |
 | ------- |
@@ -97,4 +98,8 @@
 |  |
 | ------- |
 | [3430-count-days-without-meetings](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/3430-count-days-without-meetings) |
+## Greedy
+|  |
+| ------- |
+| [0738-monotone-increasing-digits](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0738-monotone-increasing-digits) |
 <!---LeetCode Topics End-->
