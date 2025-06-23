@@ -23,6 +23,7 @@
 | [0014-longest-common-prefix](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0014-longest-common-prefix) |
 | [1739-split-two-strings-to-make-palindrome](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/1739-split-two-strings-to-make-palindrome) |
 | [0749-shortest-completing-word](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0749-shortest-completing-word) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0020-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0145-binary-tree-postorder-traversal) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
