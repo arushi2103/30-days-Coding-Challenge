@@ -104,4 +104,8 @@
 |  |
 | ------- |
 | [0738-monotone-increasing-digits](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0738-monotone-increasing-digits) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
