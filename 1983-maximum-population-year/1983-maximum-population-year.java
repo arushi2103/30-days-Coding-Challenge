@@ -1,26 +1,22 @@
 class Solution {
     public int maximumPopulation(int[][] logs) {
-        
-    int[] years = new int[2051]; // years from 1950 to 2050
-
-        // Apply the difference array approach
-        for (int[] log : logs) {
-            years[log[0]]++;      // Birth year included
-            years[log[1]]--;      // Death year excluded
-        }
-
-        int maxPopulation = 0;
-        int maxYear = 1950;
-        int currentPopulation = 0;
-
-        for (int year = 1950; year <= 2050; year++) {
-            currentPopulation += years[year];
-            if (currentPopulation > maxPopulation) {
-                maxPopulation = currentPopulation;
-                maxYear = year;
+        int n=logs.length;
+        Arrays.sort(logs,(a,b)->Integer.compare(a[0],b[0]));
+        HashMap<Integer,Integer> hmap= new HashMap<>();
+        for(int[] log : logs){
+            for(int i=log[0];i<log[1];i++){
+                hmap.put(i,hmap.getOrDefault(i,0)+1);
             }
         }
-
+        int maxYear=logs[0][0];
+        int maxCount =Integer.MIN_VALUE;
+        for(int[] log : logs ){
+            int count = hmap.get(log[0]);
+            if(count > maxCount || count==maxCount && log[0]<maxYear){
+                maxCount =hmap.get(log[0]);
+                maxYear = log[0];
+            }
+        }
         return maxYear;
     }
 }
