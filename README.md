@@ -39,6 +39,7 @@
 | [0749-shortest-completing-word](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0749-shortest-completing-word) |
 | [3430-count-days-without-meetings](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/3430-count-days-without-meetings) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [1983-maximum-population-year](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/1983-maximum-population-year) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0238-product-of-array-except-self) |
+| [1983-maximum-population-year](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/1983-maximum-population-year) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -71,6 +73,7 @@
 |  |
 | ------- |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [1983-maximum-population-year](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/1983-maximum-population-year) |
 ## Two Pointers
 |  |
 | ------- |
