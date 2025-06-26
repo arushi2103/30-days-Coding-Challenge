@@ -92,6 +92,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0070-climbing-stairs) |
 | [0738-monotone-increasing-digits](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0738-monotone-increasing-digits) |
+| [0009-palindrome-number](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0009-palindrome-number) |
 ## Memoization
 |  |
 | ------- |
