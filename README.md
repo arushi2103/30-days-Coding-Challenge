@@ -41,6 +41,7 @@
 | [3430-count-days-without-meetings](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/3430-count-days-without-meetings) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [1983-maximum-population-year](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/1983-maximum-population-year) |
+| [3114-beautiful-towers-i](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/3114-beautiful-towers-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -61,6 +62,7 @@
 | [0020-valid-parentheses](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0020-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [3114-beautiful-towers-i](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/3114-beautiful-towers-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -118,4 +120,8 @@
 |  |
 | ------- |
 | [2877-shortest-string-that-contains-three-strings](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/2877-shortest-string-that-contains-three-strings) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3114-beautiful-towers-i](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/3114-beautiful-towers-i) |
 <!---LeetCode Topics End-->
