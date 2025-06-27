@@ -25,6 +25,7 @@
 | [0749-shortest-completing-word](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0749-shortest-completing-word) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2877-shortest-string-that-contains-three-strings](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/2877-shortest-string-that-contains-three-strings) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/1636-number-of-substrings-with-only-1s) |
 ## Sliding Window
 |  |
 | ------- |
@@ -95,6 +96,7 @@
 | [0070-climbing-stairs](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0070-climbing-stairs) |
 | [0738-monotone-increasing-digits](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0738-monotone-increasing-digits) |
 | [0009-palindrome-number](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0009-palindrome-number) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/1636-number-of-substrings-with-only-1s) |
 ## Memoization
 |  |
 | ------- |
