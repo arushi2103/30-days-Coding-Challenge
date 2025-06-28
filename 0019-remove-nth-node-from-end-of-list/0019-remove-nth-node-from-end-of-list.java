@@ -11,6 +11,8 @@
 class Solution {
     public ListNode removeNthFromEnd(ListNode head, int n) {
 
+        //first move one poiter by n steps - now start moving both pointers by 1 steps ---> at the end the second pointer will be       n steps behind the 1st pointer - now remove the nth node and return the head node 
+
         ListNode temp=new ListNode(0,head);
         ListNode fast=temp;
         ListNode slow=temp;
