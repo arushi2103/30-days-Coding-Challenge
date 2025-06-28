@@ -44,10 +44,12 @@
 | [1983-maximum-population-year](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/1983-maximum-population-year) |
 | [3114-beautiful-towers-i](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/3114-beautiful-towers-i) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0215-kth-largest-element-in-an-array](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0215-kth-largest-element-in-an-array](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
 ## Tree
 |  |
 | ------- |
@@ -115,6 +117,7 @@
 |  |
 | ------- |
 | [3430-count-days-without-meetings](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/3430-count-days-without-meetings) |
+| [0215-kth-largest-element-in-an-array](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -138,4 +141,12 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
