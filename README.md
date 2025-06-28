@@ -43,6 +43,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [1983-maximum-population-year](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/1983-maximum-population-year) |
 | [3114-beautiful-towers-i](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/3114-beautiful-towers-i) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [3114-beautiful-towers-i](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/3114-beautiful-towers-i) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -97,6 +99,7 @@
 | [0738-monotone-increasing-digits](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0738-monotone-increasing-digits) |
 | [0009-palindrome-number](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0009-palindrome-number) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/1636-number-of-substrings-with-only-1s) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Memoization
 |  |
 | ------- |
