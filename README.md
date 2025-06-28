@@ -87,6 +87,7 @@
 | [1739-split-two-strings-to-make-palindrome](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/1739-split-two-strings-to-make-palindrome) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0528-swapping-nodes-in-a-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -134,4 +135,5 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0528-swapping-nodes-in-a-linked-list) |
 <!---LeetCode Topics End-->
