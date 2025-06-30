@@ -150,6 +150,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [0206-reverse-linked-list](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0206-reverse-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -162,4 +163,8 @@
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0450-delete-node-in-a-bst) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
