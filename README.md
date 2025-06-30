@@ -154,6 +154,7 @@
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [0206-reverse-linked-list](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0206-reverse-linked-list) |
 | [0141-linked-list-cycle](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0141-linked-list-cycle) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
