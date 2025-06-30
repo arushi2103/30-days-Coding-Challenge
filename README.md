@@ -47,6 +47,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0119-pascals-triangle-ii](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0119-pascals-triangle-ii) |
+| [0056-merge-intervals](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0056-merge-intervals) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -124,6 +125,7 @@
 | ------- |
 | [3430-count-days-without-meetings](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/3430-count-days-without-meetings) |
 | [0215-kth-largest-element-in-an-array](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
+| [0056-merge-intervals](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0056-merge-intervals) |
 ## Greedy
 |  |
 | ------- |
