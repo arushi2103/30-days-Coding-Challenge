@@ -9,20 +9,34 @@
  *     }
  * }
  */
-
-public class Solution {
+ public class Solution {
     public boolean hasCycle(ListNode head) {
-        // Base case: if the list is empty or has only one node, it can't have a cycle
-        if (head == null || head.next == null) return false;
+        if (head == null) return false;
         ListNode slow = head;
-        ListNode fast = head.next;
-        while (slow != fast) {
-            if (fast == null || fast.next == null) return false; // If fast pointer reaches the end, there is no cycle
-            slow = slow.next;                                        // Move slow by one step
-            fast = fast.next.next;                                   // Move fast by two steps
+        ListNode fast = head;
+        while (fast != null && fast.next != null) {
+            slow = slow.next;         // move 1 step
+            fast = fast.next.next;    // move 2 steps
+            if (slow == fast) return true;  // cycle found
         }
-
-        // If slow and fast meet, a cycle exists
-        return true;
+        return false; // reached end, no cycle
     }
 }
+
+
+// public class Solution {
+//     public boolean hasCycle(ListNode head) {
+//         // Base case: if the list is empty or has only one node, it can't have a cycle
+//         if (head == null || head.next == null) return false;
+//         ListNode slow = head;
+//         ListNode fast = head.next;
+//         while (slow != fast) {
+//             if (fast == null || fast.next == null) return false; // If fast pointer reaches the end, there is no cycle
+//             slow = slow.next;                                        // Move slow by one step
+//             fast = fast.next.next;                                   // Move fast by two steps
+//         }
+
+//         // If slow and fast meet, a cycle exists
+//         return true;
+//     }
+// }
