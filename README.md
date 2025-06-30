@@ -12,6 +12,7 @@
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [0749-shortest-completing-word](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0749-shortest-completing-word) |
 | [0141-linked-list-cycle](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0160-intersection-of-two-linked-lists) |
 ## String
 |  |
 | ------- |
@@ -99,6 +100,7 @@
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [0141-linked-list-cycle](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0160-intersection-of-two-linked-lists) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -155,6 +157,7 @@
 | [0206-reverse-linked-list](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0206-reverse-linked-list) |
 | [0141-linked-list-cycle](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0141-linked-list-cycle) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0160-intersection-of-two-linked-lists) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
