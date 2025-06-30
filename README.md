@@ -57,11 +57,13 @@
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0145-binary-tree-postorder-traversal) |
+| [0450-delete-node-in-a-bst](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0145-binary-tree-postorder-traversal) |
+| [0450-delete-node-in-a-bst](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0450-delete-node-in-a-bst) |
 ## Stack
 |  |
 | ------- |
@@ -153,4 +155,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
