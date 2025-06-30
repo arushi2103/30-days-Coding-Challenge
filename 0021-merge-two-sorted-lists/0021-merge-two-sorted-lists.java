@@ -17,14 +17,15 @@ class Solution {
 
         while(list1!=null && list2 != null){
             if(list1.val <= list2.val){
-                tail.next=list1;
-                list1=list1.next;
+                tail.next=list1;    //add this node from list1 to tail
+                list1=list1.next;   //move to next pointer
             }else{
-                tail.next=list2;
+                tail.next=list2;    //same
                 list2=list2.next;
             }
-            tail=tail.next;
+            tail=tail.next;         // move to last node of tail to process further
         }
+        //one of the list is null at this point - add remaining in the tail
         if(list1 != null){
             tail.next=list1;
         }else{
