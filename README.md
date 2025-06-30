@@ -48,6 +48,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0119-pascals-triangle-ii](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0119-pascals-triangle-ii) |
 | [0056-merge-intervals](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0057-insert-interval) |
 ## Divide and Conquer
 |  |
 | ------- |
