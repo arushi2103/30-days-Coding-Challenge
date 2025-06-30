@@ -13,6 +13,7 @@
 | [0749-shortest-completing-word](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0749-shortest-completing-word) |
 | [0141-linked-list-cycle](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0160-intersection-of-two-linked-lists) |
+| [0139-word-break](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0139-word-break) |
 ## String
 |  |
 | ------- |
@@ -28,6 +29,7 @@
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2877-shortest-string-that-contains-three-strings](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/2877-shortest-string-that-contains-three-strings) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/1636-number-of-substrings-with-only-1s) |
+| [0139-word-break](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0139-word-break) |
 ## Sliding Window
 |  |
 | ------- |
@@ -52,6 +54,7 @@
 | [0056-merge-intervals](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0057-insert-interval) |
 | [0948-sort-an-array](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0948-sort-an-array) |
+| [0139-word-break](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0139-word-break) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -113,6 +116,7 @@
 | [0097-interleaving-string](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0119-pascals-triangle-ii](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0119-pascals-triangle-ii) |
+| [0139-word-break](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0139-word-break) |
 ## Math
 |  |
 | ------- |
@@ -125,10 +129,12 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0139-word-break) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0139-word-break) |
 ## Sorting
 |  |
 | ------- |
