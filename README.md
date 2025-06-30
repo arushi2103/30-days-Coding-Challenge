@@ -76,6 +76,7 @@
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [3114-beautiful-towers-i](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/3114-beautiful-towers-i) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0234-palindrome-linked-list](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0234-palindrome-linked-list) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -101,6 +102,7 @@
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [0141-linked-list-cycle](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0234-palindrome-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -158,6 +160,7 @@
 | [0141-linked-list-cycle](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0141-linked-list-cycle) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0234-palindrome-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -174,4 +177,5 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
