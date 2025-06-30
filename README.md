@@ -11,6 +11,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [0749-shortest-completing-word](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0749-shortest-completing-word) |
+| [0141-linked-list-cycle](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0141-linked-list-cycle) |
 ## String
 |  |
 | ------- |
@@ -97,6 +98,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [0141-linked-list-cycle](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0141-linked-list-cycle) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -151,6 +153,7 @@
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [0206-reverse-linked-list](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0206-reverse-linked-list) |
+| [0141-linked-list-cycle](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0141-linked-list-cycle) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
