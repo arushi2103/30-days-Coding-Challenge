@@ -45,6 +45,7 @@
 | [3114-beautiful-towers-i](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/3114-beautiful-towers-i) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0215-kth-largest-element-in-an-array](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -97,6 +98,7 @@
 | [0005-longest-palindromic-substring](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0097-interleaving-string) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Math
 |  |
 | ------- |
