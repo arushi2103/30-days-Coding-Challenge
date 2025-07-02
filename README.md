@@ -31,6 +31,7 @@
 | [1636-number-of-substrings-with-only-1s](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/1636-number-of-substrings-with-only-1s) |
 | [0139-word-break](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0139-word-break) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | [0948-sort-an-array](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0948-sort-an-array) |
 | [0139-word-break](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0139-word-break) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -120,6 +122,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0119-pascals-triangle-ii](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0119-pascals-triangle-ii) |
 | [0139-word-break](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0139-word-break) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Math
 |  |
 | ------- |
@@ -150,6 +153,7 @@
 | ------- |
 | [0738-monotone-increasing-digits](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0738-monotone-increasing-digits) |
 | [2877-shortest-string-that-contains-three-strings](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/2877-shortest-string-that-contains-three-strings) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Database
 |  |
 | ------- |
