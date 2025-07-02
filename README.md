@@ -30,6 +30,7 @@
 | [2877-shortest-string-that-contains-three-strings](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/2877-shortest-string-that-contains-three-strings) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/1636-number-of-substrings-with-only-1s) |
 | [0139-word-break](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0139-word-break) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 ## Sliding Window
 |  |
 | ------- |
@@ -55,6 +56,7 @@
 | [0057-insert-interval](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0057-insert-interval) |
 | [0948-sort-an-array](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0948-sort-an-array) |
 | [0139-word-break](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0139-word-break) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -96,6 +98,7 @@
 | ------- |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [1983-maximum-population-year](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/1983-maximum-population-year) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 ## Two Pointers
 |  |
 | ------- |
