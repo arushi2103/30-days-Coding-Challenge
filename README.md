@@ -32,6 +32,7 @@
 | [0139-word-break](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0139-word-break) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -113,6 +114,7 @@
 | [0141-linked-list-cycle](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0234-palindrome-linked-list) |
+| [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -123,6 +125,7 @@
 | [0119-pascals-triangle-ii](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0119-pascals-triangle-ii) |
 | [0139-word-break](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/0139-word-break) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 ## Math
 |  |
 | ------- |
@@ -162,6 +165,7 @@
 |  |
 | ------- |
 | [2877-shortest-string-that-contains-three-strings](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/2877-shortest-string-that-contains-three-strings) |
+| [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/arushi2103/30-days-Coding-Challenge/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 ## Monotonic Stack
 |  |
 | ------- |
